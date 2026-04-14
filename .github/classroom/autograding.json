@@ -1,0 +1,64 @@
+{
+  "tests": [
+    {
+      "name": "🏗️ HTML სტრუქტურა",
+      "setup": "",
+      "run": "node lesson-01-html-basics/tests/check_homework.js --check structure",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 30,
+      "points": 8
+    },
+    {
+      "name": "🧱 სათაურები h1-h6",
+      "setup": "",
+      "run": "node lesson-01-html-basics/tests/check_homework.js --check headings",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 30,
+      "points": 8
+    },
+    {
+      "name": "📝 პარაგრაფები",
+      "setup": "",
+      "run": "node lesson-01-html-basics/tests/check_homework.js --check paragraphs",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 30,
+      "points": 6
+    },
+    {
+      "name": "🎨 ტექსტის ფორმატირება",
+      "setup": "",
+      "run": "node lesson-01-html-basics/tests/check_homework.js --check formatting",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 30,
+      "points": 8
+    },
+    {
+      "name": "📍 address.html და br",
+      "setup": "",
+      "run": "node lesson-01-html-basics/tests/check_homework.js --check address",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 30,
+      "points": 5
+    },
+    {
+      "name": "🧪 formulas.html sub/sup",
+      "setup": "",
+      "run": "node lesson-01-html-basics/tests/check_homework.js --check formulas",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 30,
+      "points": 5
+    }
+  ]
+}
